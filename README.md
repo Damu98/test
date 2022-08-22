@@ -1,2 +1,2 @@
 # test
-my test repository
+my test repository to save my notes
